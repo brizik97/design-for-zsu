@@ -1,12 +1,12 @@
 @font-face {
     font-family: "Kyiv Sans Bold";
-    src: url("./fonts/KyivTypeSans-Bold-.woff2") format("woff2"),
-           url("./fonts/KyivTypeSans-Bold-.woff") format("woff");
+    src: url("../fonts/KyivTypeSans-Bold-.woff2") format("woff2"),
+           url("../fonts/KyivTypeSans-Bold-.woff") format("woff");
    }
 @font-face {
     font-family: "Kyiv Sans Regular";
-    src: url("./fonts/KyivTypeSans-Light-.woff2") format("woff2"),
-        url("./fonts/KyivTypeSans-Light-.woff") format("woff");
+    src: url("../fonts/KyivTypeSans-Light-.woff2") format("woff2"),
+        url("../fonts/KyivTypeSans-Light-.woff") format("woff");
 }
 .container{
     scroll-snap-type: y mandatory;
